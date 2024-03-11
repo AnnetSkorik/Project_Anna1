@@ -23,7 +23,6 @@ const Banner = () => {
         </div>
         {/* </div> */}
       
-        
       </banner>
     </>
   );
